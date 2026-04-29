@@ -2,7 +2,7 @@
 
 > India's honest college discovery platform. No sponsored rankings. Just clear data.
 
-🌐 **Live Demo:** (https://campusiq-frontend.vercel.app/predictor)  
+🌐 **Live Demo:** (https://campusiq-frontend.vercel.app/) 
 🔧 **Backend API:** [campusiq-api.onrender.com](https://campusiq-api.onrender.com/health)
 
 ---
